@@ -8,5 +8,6 @@ public class code {
         System.out.print("Введите своё имя: ");
         String name = scan.nextLine();
         System.out.print("Приветствуем, " + name + "!");
+        System.out.println("Удачного дня и веселого настроения!");
     }
 }
